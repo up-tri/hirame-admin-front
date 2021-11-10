@@ -8,6 +8,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tiptap/react": "^2.0.0-beta.92",
+    "@tiptap/starter-kit": "^2.0.0-beta.139",
     "next": "12.0.3",
     "react": "17.0.2",
     "react-dom": "17.0.2"
@@ -17,6 +19,7 @@
     "@types/react": "17.0.34",
     "eslint": "7",
     "eslint-config-next": "12.0.3",
+    "sass": "^1.43.4",
     "typescript": "4.4.4"
   }
 }
